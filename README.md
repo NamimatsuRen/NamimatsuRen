@@ -17,5 +17,4 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning ...swift,Python
 - 🤔 I’m looking for help with ...Please tell me that it was a decisive factor for working in your current profession.
 - 💬 Ask me about ...Trial and error to make a game that makes use of the learning of linear algebra
-- 📫 How to reach me: ...https://twitter.com/namima111
 
